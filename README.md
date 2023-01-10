@@ -48,14 +48,14 @@ HTML, CSS, NodeJS
 <details>
   <summary>Structure</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Style</summary>
   <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
   </ul>
 </details>
 
