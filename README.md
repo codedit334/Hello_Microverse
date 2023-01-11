@@ -2,9 +2,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Hello Microverse</b></h3>
 
 </div>
@@ -43,8 +40,6 @@
 HTML, CSS, NodeJS
 ### Tech Stack <a name="tech-stack"></a>
 
-
-
 <details>
   <summary>Structure</summary>
   <ul>
@@ -71,10 +66,7 @@ HTML, CSS, NodeJS
 
 ### Key Features <a name="key-features"></a>
 
-
-
-- **[Linter]** Linter is a tool to help you improve your code, it analizes the source code looking for problems.
-
+-Linter is a tool to help you improve your code, it analizes the source code looking for problems.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,16 +74,13 @@ HTML, CSS, NodeJS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](NA)
+-The live link will be updated as soon as it is available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
   
@@ -104,7 +93,6 @@ In order to run this project you need:
  npm install
 ```
 
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -112,8 +100,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone git@github.com/codedit334/Hello_Microverse.git
 ```
-
-
 ### Install
 
 Install this project with:
@@ -121,7 +107,6 @@ Install this project with:
   cd Hello_Microverse
   npm install
 ```
-
 
 ### Usage
 
@@ -136,7 +121,6 @@ To check for html errors run:
 ```sh
   npx hint .
 ```
-
 To check for css errors run:
 ```sh
   npx stylelint "**/*.{css,scss}"
@@ -146,20 +130,17 @@ To check for css errors run:
 
 You can deploy this project using your preferd hosting platform.
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 Author1
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/codedit334)
-- Twitter: [@twitterhandle](https://twitter.com/oussedit)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oussama-elabdioui-4677a41b6/)
+- GitHub: [@codedit334 ](https://github.com/codedit334)
+- Twitter: [@oussedit](https://twitter.com/oussedit)
+- LinkedIn: [Oussama Elabdioui](https://www.linkedin.com/in/oussama-elabdioui-4677a41b6/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -168,9 +149,8 @@ You can deploy this project using your preferd hosting platform.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Full HTML5 page]**
+-Centering the title
+-Making the title responsive
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,9 +169,7 @@ Feel free to check the [issues page](https://github.com/codedit334/Hello_Microve
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project send your feedback to encourage me to do more.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,9 +177,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse for offering me this opportunity to learn, and practice my skills.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,12 +185,9 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Why use linters]**
+-Why use linters?
 
   - The use of linters helps to diagnose and fix technical issues, also linters can help teams achieve a more readable and consistent style, through the enforcement of its rules.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,7 +196,6 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/)
+(Check the LICENSE file)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
