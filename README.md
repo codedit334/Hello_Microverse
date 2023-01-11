@@ -34,7 +34,7 @@
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-**[Hello_Microverse]** is a test for the use for devolopement tools, aswell as its best practices
+Hello_Microverse is a test for the use for devolopement tools, aswell as its best practices
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML, CSS, NodeJS
